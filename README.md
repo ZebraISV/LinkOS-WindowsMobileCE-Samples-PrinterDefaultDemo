@@ -1,8 +1,7 @@
-**IMPORTANT PLEASE READ CAREFULLY:**
-**(UNRESTRICTED SOFTWARE)** 
-##  LinkOS_SDK license ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
-<br/>
-<br/>
+# LinkOS-WindowsMobileCE-Samples-PrinterDefaultDemo
+###### __IMPORTANT:__ BEFORE USING PLEASE READ CAREFULLY THE ENDUSER [LICENSE_ AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br />
+
 
 <p align="center">
  
